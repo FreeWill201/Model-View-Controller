@@ -1,14 +1,14 @@
 {
     "development": {
       "username": "root",
-      "password": "IamWill201$",
+      "password": "password",
       "database": "alphabet_db",
       "host": "127.0.0.1",
       "dialect": "mysql"
     },
     "test": {
       "username": "root",
-      "password": "IamWill201$",
+      "password": "password",
       "database": "alphabet_db",
       "host": "127.0.0.1",
       "dialect": "mysql"
